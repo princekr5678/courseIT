@@ -1,4 +1,4 @@
-# Cource It.
+# Course It.
 
 #Above Online course Marketplace website (Name=Course It.) is a modern clean multi-purpose  built with valid HTML5 & CSS3. It's build on top of latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. 
 This website can be used for multi-purpose needs like 
